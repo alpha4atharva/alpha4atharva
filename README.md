@@ -59,9 +59,7 @@
 
 ## 🧠 Coding Profiles
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alpha4atharva/metrics/main/metrics.svg" alt="Coding profile stats">
-</p>
+![Metrics](./metrics.svg)
 
 ---
 
