@@ -7,16 +7,21 @@
 
 ---
 
-## Coding Profiles📈
+## 📈 Coding Profiles
 
-<span>
-<a href="https://codeforces.com/profile/Atharva000">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Atharva000&theme=github_dark&force_username=true&border_color=404040" alt="Atharva Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/atharva_rana069/">
-<img height="316" src="https://leetcard.jacoblin.cool/atharva_rana069?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Atharva Leetcode Stats"/>
-</a>
-</span>
+<p align="center">
+  <a href="https://codeforces.com/profile/Atharva000">
+    <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Atharva000&theme=github_dark&force_username=true&border_color=404040" alt="Atharva Codeforces Stats"/>
+  </a>
+  <a href="https://leetcode.com/atharva_rana069/">
+    <img height="316" src="https://leetcard.jacoblin.cool/atharva_rana069?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Atharva Leetcode Stats"/>
+  </a>
+  <a href="https://www.codechef.com/users/alpha_03">
+    <img height="316" src="https://codechef-readme-stats.vercel.app/api/card?username=alpha_03&theme=dark&border=true&border_color=404040" alt="Atharva CodeChef Stats"/>
+  </a>
+</p>
+
+---
 
 ## 🧑‍💻 About Me
 
@@ -60,6 +65,14 @@
 
 ---
 
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpha4atharva&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -76,7 +89,6 @@
   <a href="https://codeforces.com/profile/Atharva000"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"></a>
   <a href="https://codechef.com/users/alpha_03"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"></a>
 </p>
-
 
 ---
 
