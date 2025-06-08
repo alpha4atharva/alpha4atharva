@@ -57,28 +57,23 @@
 
 ---
 
-## 💡 Competitive Programming Stats
+## 🧠 Coding Profiles
 
-### LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/atharva_rana069?theme=dark&font=Roboto&ext=contest)
-
-### Codeforces
-
-![Codeforces Badge](https://cp-logo.vercel.app/codeforces/Atharva000)
-
-### CodeChef
-
-![CodeChef Badge](https://cp-logo.vercel.app/codechef/alpha_03)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alpha4atharva/metrics/main/metrics.svg" alt="Coding profile stats">
+</p>
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/atharva-rana-7564b130b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/atharva_rana069)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces)](https://codeforces.com/profile/Atharva000)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef)](https://www.codechef.com/users/alpha_03)
+<p align="center">
+  <a href="https://linkedin.com/in/atharva-rana-7564b130b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://leetcode.com/atharva_rana069"><img src="https://img.shields.io/badge/LeetCode-FE7F2D?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://codeforces.com/profile/Atharva000"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"></a>
+  <a href="https://codechef.com/users/alpha_03"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"></a>
+</p>
+
 
 ---
 
