@@ -24,7 +24,7 @@
 - 💻 Currently working on **system-level projects, full-stack apps, and ML models**  
 - ⚙️ Regular participant in **LeetCode, Codeforces, and CodeChef contests**  
 - 🌱 Learning **OS, DBMS, LFS, custom shell building, React**  
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/alpha4atharva)
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/atharva-rana-7564b130b)
 
 ---
 
