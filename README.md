@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Atharva Rana</h1>
-<h3 align="center">CSE Student | Web Developer | Machine Learning | Competitive Programmer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Atharva+Rana;CSE+Student+%7C+Web+Developer+%7C+Machine+Learning+%7C+Competitive+Programmer" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alpha4atharva&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=alpha4atharva&label=Profile+views&color=0e75b6&style=flat-square" alt="profile views"/>
 </p>
 
 ---
