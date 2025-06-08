@@ -59,7 +59,9 @@
 
 ## 🧠 Coding Profiles
 
-![Metrics](./metrics.svg)
+[![LeetCode](https://img.shields.io/badge/LeetCode-atharva_rana069-orange?logo=leetcode)](https://leetcode.com/atharva_rana069)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Atharva000-blue?logo=codeforces)](https://codeforces.com/profile/Atharva000)
+[![CodeChef](https://img.shields.io/badge/CodeChef-alpha_03-6D9EEB?logo=codechef)](https://www.codechef.com/users/alpha_03)
 
 ---
 
