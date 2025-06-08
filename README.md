@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pre-final year BTech student at Graphic Era Hill University  
+- 🎓 Final year BTech student at Graphic Era Hill University  
 - 💻 Currently working on **system-level projects, full-stack apps, and ML models**  
 - ⚙️ Regular participant in **LeetCode, Codeforces, and CodeChef contests**  
 - 🌱 Learning **OS, DBMS, LFS, custom shell building, React**  
