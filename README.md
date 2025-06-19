@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#0e75b6;">Atharva Rana</span></h1>
 <h3 align="center">🎓 CSE Student • 🌐 Web Developer • 🤖 ML Enthusiast • 🧠 Competitive Programmer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alpha4atharva&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
